@@ -32,5 +32,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=TanmayKuche&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayKuche&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
+### 📄 Publications
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- [AI AND CHAT-BOT IN LEGAL HIRING](https://www.irjmets.com/uploadedfiles/paper//issue_3_march_2025/70242/final/fin_irjmets1745682616.pdf) — Journal- IRJMETS, 2025
+
